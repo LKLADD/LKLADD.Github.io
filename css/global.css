@@ -1,0 +1,86 @@
+body, html{
+    margin:0;
+    padding:0;
+}
+
+
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    font-family: 'Great Vibes', cursive;
+    font-weight:100;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    font-family: 'Great Vibes', cursive;
+    font-weight:100;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.link{
+        font-size: 25px;
+    text-align: center;
+    color: black;
+    font-family: 'Outfit', sans-serif;
+    font-weight:100;
+        margin-top: -25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h3{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    font-family: 'Outfit', sans-serif;
+    font-weight:100;
+        margin-top: -25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h4{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'Outfit', sans-serif;
+    font-weight:100;
+        margin-top: -25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.splash{
+    width: 100%;
+    padding-top: 40px;
+}
+
+.splash2{
+    width: %;
+    padding-top: 40px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #F2F2F2;
+    color: black;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
